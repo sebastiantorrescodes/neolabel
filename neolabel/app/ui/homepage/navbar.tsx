@@ -1,6 +1,6 @@
 export default function NavBar() {
   return (
-    <nav className=" sticky top-0 z-50 flex justify-between  items-center  h-6 m-8 p-8 rounded-lg bg-linear-to-r from-accent from-0% to-secondary to-50%">
+    <nav className=" sticky top-0 z-50 flex justify-between  items-center  h-6 m-8 p-8 rounded-lg bg-linear-to-r from-primary from-0% to-secondary to-50%">
       <div>
         <h1 className="text-2xl font-medium text-white ">NEOLABEL</h1>
       </div>

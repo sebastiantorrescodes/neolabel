@@ -1,12 +1,12 @@
 import "@/app/ui/global.css";
 import Image from "next/image";
 import Link from "next/link";
-import NavBar from "@/app/ui/navbar";
+// import NavBar from "@/app/ui/homepage/navbar";
 
 export default function Page() {
   return (
     <>
-      <NavBar />
+      {/* <NavBar /> */}
       <div className="flex h-screen items-center justify-center px-6">
         <div className="flex max-w-7xl w-full flex-col md:flex-row items-center justify-between gap-10">
           <div className="w-full md:w-1/2">
